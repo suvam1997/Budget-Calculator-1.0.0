@@ -17,22 +17,23 @@ To test the web application: https://suvam1997.github.io/Budget-Calculator-1.0.0
 A. Application Preview
 =====
 
-![Preview_PigxDice_1 0 1](https://user-images.githubusercontent.com/53318366/91453258-24046a00-e89d-11ea-8f1e-4f87dcd0ad76.gif)
+![20200915_105447](https://user-images.githubusercontent.com/53318366/93169233-4bcf4b00-f742-11ea-82c5-471756d96d6a.gif)
+
 
 B. Code Preview
 ====
 
 ### 1. index.html ###
 
-![index](https://user-images.githubusercontent.com/53318366/91442671-d59c9e80-e88f-11ea-92cd-e548fd62079e.png)
+![index](https://user-images.githubusercontent.com/53318366/93169259-5a1d6700-f742-11ea-9915-020d4a668e7e.png)
 
 ### 2. style.css ###
 
-![style](https://user-images.githubusercontent.com/53318366/91442678-d7666200-e88f-11ea-8715-c6e13609b86e.png)
+![css](https://user-images.githubusercontent.com/53318366/93169257-5853a380-f742-11ea-811d-bb51647f8424.png)
 
 ### 3. app.js ###
 
-![app](https://user-images.githubusercontent.com/53318366/91442652-cf0e2700-e88f-11ea-9a8e-2011a0c1a0eb.png)
+![app](https://user-images.githubusercontent.com/53318366/93169250-5558b300-f742-11ea-8639-284a43d39043.png)
 
 C. Contact Me:
 =====
