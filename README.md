@@ -17,8 +17,7 @@ To test the web application: https://suvam1997.github.io/Budget-Calculator-1.0.0
 A. Application Preview
 =====
 
-![20200915_105447](https://user-images.githubusercontent.com/53318366/93169233-4bcf4b00-f742-11ea-82c5-471756d96d6a.gif)
-
+![Preview](https://user-images.githubusercontent.com/53318366/93170257-7cb07f80-f744-11ea-9c41-3bc745ee2076.gif)
 
 B. Code Preview
 ====
@@ -29,11 +28,11 @@ B. Code Preview
 
 ### 2. style.css ###
 
-![css](https://user-images.githubusercontent.com/53318366/93169257-5853a380-f742-11ea-811d-bb51647f8424.png)
+![style](https://user-images.githubusercontent.com/53318366/93170272-86d27e00-f744-11ea-8e0b-8fd3db273d3c.png)
 
 ### 3. app.js ###
 
-![app](https://user-images.githubusercontent.com/53318366/93169250-5558b300-f742-11ea-8639-284a43d39043.png)
+![app](https://user-images.githubusercontent.com/53318366/93170265-81753380-f744-11ea-89f9-95ef9e3d52ae.png)
 
 C. Contact Me:
 =====
