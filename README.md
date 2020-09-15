@@ -6,10 +6,10 @@ To test the web application: https://suvam1997.github.io/Budget-Calculator-1.0.0
 
 ### Version 1.0.0 features ###
 
-- Add Income and Expence
-- Remove Income and Expence
+- Add Income and Expense
+- Remove Income and Expense
 - Auto calculation
-- Expence percentage
+- Expense percentage
 - Easy UI
 
 ----------
